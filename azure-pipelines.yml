@@ -8,7 +8,7 @@ steps:
   inputs:
     command: publish
     arguments: '--configuration Release --output publish_output'
-    projects: 'dato002/fetchazuresqlApiManuelTest001/fetchazuresqlApiManuelTest001/fetchazuresqlApiManuelTest001.csproj'
+    projects: 'fetchazuresqlApiManuelTest001/fetchazuresqlApiManuelTest001/fetchazuresqlApiManuelTest001.csproj'
     publishWebProjects: false
     modifyOutputPath: false
     zipAfterPublish: false
