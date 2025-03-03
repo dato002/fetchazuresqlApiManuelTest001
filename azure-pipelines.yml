@@ -16,7 +16,7 @@ steps:
   displayName: "Archive files"
   inputs:
     rootFolderOrFile: "$(System.DefaultWorkingDirectory)/fetchazuresqlApiManuelTest001/publish_output"
-    includeRootFolder: false
+    includeRootFolder: true
     archiveFile: "$(System.DefaultWorkingDirectory)/fetchazuresqlApiManuelTest001/build$(Build.BuildId).zip"
 - task: PublishBuildArtifacts@1
   inputs:
