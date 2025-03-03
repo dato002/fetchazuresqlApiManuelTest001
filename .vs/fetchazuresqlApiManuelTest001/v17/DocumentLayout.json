@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dato000\\source\\repos\\fetchazuresqlApiManuelTest001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F3EC56-E79F-46A0-BE13-53345E139BFB}|fetchazuresqlApiManuelTest001\\fetchazuresqlApiManuelTest001.csproj|c:\\users\\dato000\\source\\repos\\fetchazuresqlapimanueltest001\\fetchazuresqlapimanueltest001\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F3EC56-E79F-46A0-BE13-53345E139BFB}|fetchazuresqlApiManuelTest001\\fetchazuresqlApiManuelTest001.csproj|solutionrelative:fetchazuresqlapimanueltest001\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\dato000\\source\\repos\\fetchazuresqlApiManuelTest001\\fetchazuresqlApiManuelTest001\\Function1.cs",
+              "RelativeDocumentMoniker": "fetchazuresqlApiManuelTest001\\Function1.cs",
+              "ToolTip": "C:\\Users\\dato000\\source\\repos\\fetchazuresqlApiManuelTest001\\fetchazuresqlApiManuelTest001\\Function1.cs",
+              "RelativeToolTip": "fetchazuresqlApiManuelTest001\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:36:40.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

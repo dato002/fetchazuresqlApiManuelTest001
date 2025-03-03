@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7e791b5f-c91a-4840-935c-efaa1b3de327}") = "fetchazuresqlApiManuelTest001", "fetchazuresqlApiManuelTest001.csproj", "{ee6a9c60-a361-4dfb-9d1e-3a8300c39fda}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ee6a9c60-a361-4dfb-9d1e-3a8300c39fda}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ee6a9c60-a361-4dfb-9d1e-3a8300c39fda}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ee6a9c60-a361-4dfb-9d1e-3a8300c39fda}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ee6a9c60-a361-4dfb-9d1e-3a8300c39fda}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {f745682b-bd2b-4c1b-ba57-02c8c99b0ca5}
+	EndGlobalSection
+EndGlobal
