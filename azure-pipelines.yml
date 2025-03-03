@@ -8,7 +8,7 @@ steps:
   inputs:
     command: publish
     arguments: '--configuration Release --output publish_output'
-    projects: '**/**/*.csproj'
+    projects: 'dato002/fetchazuresqlApiManuelTest001/fetchazuresqlApiManuelTest001/fetchazuresqlApiManuelTest001.csproj'
     publishWebProjects: false
     modifyOutputPath: false
     zipAfterPublish: false
@@ -16,7 +16,7 @@ steps:
   displayName: "Archive files"
   inputs:
     rootFolderOrFile: "$(System.DefaultWorkingDirectory)/publish_output"
-    includeRootFolder: true
+    includeRootFolder: false
     archiveFile: "$(System.DefaultWorkingDirectory)/build$(Build.BuildId).zip"
 - task: PublishBuildArtifacts@1
   inputs:
